@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Rey Ortigas</h1>
 <h3 align="center">An aspiring data scienctist</h3>
 
+- 🙇🏻 I sincerely apologize if my portfolio appears unfinished. It’s still under active development as I’m currently managing a full academic workload. I’m gradually uploading my projects and improving the content. Thank you for your understanding — I truly value your time in reviewing my work.
+
 - 🔭 I’m currently working on **Forecasting Gold and Silver Price Using Hybrid Model through Fusion of Financial, Economic, and Numerical Factors**
 
 - 🌱 I’m currently learning **Apply AI: Analyze Customer Reviews**
