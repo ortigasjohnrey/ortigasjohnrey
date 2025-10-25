@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm John Rey Ortigas</h1>
 <h3 align="center">An aspiring data scienctist</h3>
 
